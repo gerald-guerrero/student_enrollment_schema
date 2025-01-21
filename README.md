@@ -1,8 +1,8 @@
 # Student Enrollment Schema
 
 ## Requirements
-psql (PostgreSQL) 17.2
-PGAdmin 4 v8
+- psql (PostgreSQL) 17.2
+- PGAdmin 4 v8
 
 ## Directions
 To run `student_enrollment_tables.sql` code to create and manage the table
